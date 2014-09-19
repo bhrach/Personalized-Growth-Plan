@@ -5,7 +5,7 @@ digraph Student_User_Flow{
     d [label="Create New Student Account"];
     e [label="New Account Confirmation Screen"];
     f [label="Home"];
-    g [label="New Student Survey"];
+    g [label="New Student Self-Assessment"];
     h [label="View PGP"];
     i [label="New Survey Confirmation Screen"];
 

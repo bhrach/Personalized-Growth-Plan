@@ -7,7 +7,7 @@ digraph TA_User_Flow{
     f [label="Home"];
     g [label="Class Selection"]
     h [label="Create New PDP"];
-    i [label="View Student Survey"];
+    i [label="View Student Self-Assessment"];
     j [label="New PGP Confirmation Screen"];
 
     a -> b -> c -> f -> g  -> h -> j;
